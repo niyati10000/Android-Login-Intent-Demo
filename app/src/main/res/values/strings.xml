@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">newwwww</string>
+    <string name="email">enter your mail</string>
+    <string name="pass">enter your password</string>
+    <string name="acc">choose your account type</string>
+    <string name="user">user</string>
+    <string name="admin">admin</string>
+    <string name="login">login</string>
+    <string name="rem">Remember me!</string>
+    <string name="forpass">Forget,password?</string>
+    <string name="loginpage"> Login Page </string>
+    <string name="propage"> Profile Page </string>
+    <string name="msg"> WELCOME , Niyati </string>
+    <string name="acctype"> Account Type: </string>
+    <string name="logout">logout</string>
+
+</resources>
